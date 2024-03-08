@@ -1,6 +1,11 @@
 ![bluehyssopu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluehyssopu)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
