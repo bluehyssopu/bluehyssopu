@@ -4,8 +4,8 @@ Hi, dear! Welcome to my world.
 
 你好鸭，亲爱的！欢迎来到我的小窝。
 
-<div>
-  <img src="./header.svg" width="800" height="180" />
+<div style="margin-bottom: 20px">
+  <img src="./header.svg" width="800" />
 </div>
 
 <div class=".card-container">
