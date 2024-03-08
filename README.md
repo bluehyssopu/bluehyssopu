@@ -2,6 +2,8 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bluehyssopu)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluehyssopu&theme=transparent)](https://git.io/streak-stats)
+
 <!--START_SECTION:waka-->
 
 ```txt
