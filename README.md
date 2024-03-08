@@ -1,6 +1,6 @@
 ![bluehyssopu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluehyssopu)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bluehyssopu)
 
 <!--START_SECTION:waka-->
 
