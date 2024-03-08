@@ -1,4 +1,4 @@
-### Hi there 👋
+![bluehyssopu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluehyssopu)
 
 <!--
 **bluehyssopu/bluehyssopu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
