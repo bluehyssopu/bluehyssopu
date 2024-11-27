@@ -13,7 +13,7 @@ Hi, dear! Welcome to my world.
   <img src="https://streak-stats.demolab.com?user=bluehyssopu" width="50%">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"></img>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kzmqvq&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"></img>
 
 ## 我的技能
 
