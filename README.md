@@ -84,7 +84,7 @@ Hi, dear! Welcome to my world.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   4 mins                🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
