@@ -84,8 +84,7 @@ Hi, dear! Welcome to my world.
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        5 mins                🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜   95.88 %
-Markdown   0 secs                🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
